@@ -3,4 +3,7 @@ This project is a simple implement of Levenberg-Marquardt method for solving non
 of trust-region method in numerical optimization. You can read the PDF in the project for the details of the algorithm. We use the
 example in slambook by gaoxiang to test the algorithm. The result is as follows:<br>
 ![](https://github.com/spc2/useLevenbergMarquardt/blob/master/result.png)
+
+# Dependencies
+CMake, Eigen3, OpenCV3 <br>
 ![](https://img.shields.io/badge/license-BSD-bule)
