@@ -5,7 +5,7 @@ example in slambook by gaoxiang to test the algorithm. The result is as follows:
 ![](https://github.com/spc2/useLevenbergMarquardt/blob/master/result.png)
 
 # Dependencies
-CMake, Eigen3, OpenCV3 
+Cmake, Eigen3, OpenCV3 
 
 # License
 ![](https://img.shields.io/badge/license-BSD-bule)
